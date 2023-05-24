@@ -1,0 +1,22 @@
+{
+    "devices": [
+        {
+            "address": "0013A2004183BF4E",
+            "io": [
+                {
+                    "pin": "DIO1_AD1",
+                    "mode": "DIGITAL_IN"
+                },
+                {
+                    "pin": "DIO2_AD2",
+                    "mode": "DIGITAL_OUT_LOW"
+                },
+                {
+                    "pin": "DIO3_AD3",
+                    "mode": "ADC",
+                    "expression": "x"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+ltp-front/node_modules/
+ltp-front/.cache/
+ltp-front/public
+ltp-front/src/gatsby-types.d.ts
+ltp-front/.env
+
+
+.venv/
+.vscode/
+__
